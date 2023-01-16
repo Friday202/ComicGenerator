@@ -4,7 +4,7 @@ This is an application that you can run in an IDE like PyCharm to create custom 
 
 # Installation instructions:
 
-Since everything works locally you have to firstly download inapinting and costum comic model stable diffusion, avabile at: 
+Since everything works locally you have to firstly download inapinting and custom comic model stable diffusion, avabile at: 
 
 https://huggingface.co/runwayml/stable-diffusion-inpainting/tree/main
 
