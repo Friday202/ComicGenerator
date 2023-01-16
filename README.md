@@ -35,3 +35,17 @@ Most things should be self explanatory. Know limitations are from pretrained mod
 
 Look for inspiration on https://openart.ai/ for better prompting. 
 
+# Results: 
+img2img:
+![img3](https://user-images.githubusercontent.com/122792037/212675369-4e3ea7bc-d40e-40c1-b7f5-999a325b40c2.png)
+
+inpainting to fix/add elements: 
+
+![fig5](https://user-images.githubusercontent.com/122792037/212675415-73d9874e-2696-42c9-9961-d87c11eb6d64.png)
+
+Consistency of charachters: 
+![gifg](https://user-images.githubusercontent.com/122792037/212675451-5e00b1c9-8b44-4b82-b110-c212e82d4390.jpg)
+
+Generated comic in sloveninan: 
+[GeneratedComic.pdf](https://github.com/Friday202/ComicGenerator/files/10425643/GeneratedComic.pdf)
+
